@@ -1,5 +1,10 @@
 #  Native D3D12 Compute Backend for ultimate use in Protein Folding
 
+Please Support My Open Source Work! The Solana community generously made a coin for me and I get fees as comission :) 
+https://join.pump.fun/HSag/u7m5udd5
+<p align="center">
+<img src="https://github.com/Mycomembranes/Mycomembranes/blob/9d9c300cc2bc01eb61d30877a254809c77b069a6/unnamed.png" width="280" alt=" Support my open source work!"/>
+</p>
 ## Overview
 
 This directory contains the complete implementation of a native D3D12 compute backend for OperonFold, bypassing the Vulkan-to-Dozen-to-D3D12 translation stack on WSL2 (Surface Pro ARM64, Qualcomm Adreno X1-85). The result: **111-200x speedup** on GPU dispatch overhead.
