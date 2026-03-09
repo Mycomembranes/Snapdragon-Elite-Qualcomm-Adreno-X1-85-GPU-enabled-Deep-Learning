@@ -3,7 +3,7 @@
 **Date**: 2026-03-08
 **Platform**: Snapdragon X Elite (X1E-80-100), Surface Pro 11th Edition
 **Kernel**: 6.6.87.2-microsoft-standard-WSL2+ (custom build)
-**Author**: Research report prepared for Mukshud Ahamed
+**Author**:  Mukshud Ahamed
 
 ---
 
