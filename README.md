@@ -24,7 +24,7 @@ This directory contains the complete implementation of a native D3D12 compute ba
 
 ## 1. Problem Statement
 
-OperonFold uses wgpu (via wgpu-py) for GPU-accelerated tensor operations. On WSL2 with Qualcomm Adreno X1-85, the only available GPU path is:
+OperonFold (unreleased by me as of 3/8/26) uses wgpu (via wgpu-py) for GPU-accelerated tensor operations. On WSL2 with Qualcomm Adreno X1-85, the only available GPU path is:
 
 ```
 Python wgpu-py -> wgpu-native (Rust) -> Vulkan API -> Mesa Dozen VK driver -> D3D12 API -> Windows D3D12 -> Adreno GPU
