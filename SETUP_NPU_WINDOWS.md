@@ -2,7 +2,7 @@
 
 Setup guide for running Qualcomm Hexagon NPU inference on the Surface Pro
 (Snapdragon X Elite) using `onnxruntime-directml` from native Windows Python.
-
+By Mukshud Ahamed
 ---
 
 ## 1. Install Python for Windows ARM64
