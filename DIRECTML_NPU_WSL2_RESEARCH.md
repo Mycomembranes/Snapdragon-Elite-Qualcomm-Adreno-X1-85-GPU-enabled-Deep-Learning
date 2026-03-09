@@ -1,4 +1,5 @@
 # DirectML NPU Access from WSL2 on Snapdragon X Elite -- Research Findings
+Mukshud Ahamed
 
 **Date**: 2026-03-08
 **System**: Surface Pro 11 (Snapdragon X Elite X1E-80100), Windows 11 24H2, WSL2 6.6.87.2
