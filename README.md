@@ -1,4 +1,4 @@
-# OperonFold Native D3D12 Compute Backend
+#  Native D3D12 Compute Backend for ultimate use in Protein Folding
 
 ## Overview
 
