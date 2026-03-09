@@ -4,7 +4,7 @@
 **Platform**: Snapdragon X Elite (X1E-80-100), Surface Pro 11th Edition
 **Kernel**: 6.6.87.2-microsoft-standard-WSL2+
 **WSL2 Libraries**: libd3d12.so, libd3d12core.so, libdxcore.so (all ELF64 aarch64)
-
+Mukshud Ahamed
 ---
 
 ## TL;DR
