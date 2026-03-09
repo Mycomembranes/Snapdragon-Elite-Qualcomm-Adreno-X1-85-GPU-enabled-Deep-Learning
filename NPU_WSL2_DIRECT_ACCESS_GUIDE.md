@@ -3,7 +3,7 @@
 ## Date: 2026-03-08
 ## Platform: Snapdragon X Elite (X1E80100), Windows 11 ARM64, WSL2 (kernel 6.6.87.2)
 ## NPU: Qualcomm Hexagon NPU, 45 TOPS INT8
-
+Mukshud Ahamed
 ---
 
 ## 1. Goal
