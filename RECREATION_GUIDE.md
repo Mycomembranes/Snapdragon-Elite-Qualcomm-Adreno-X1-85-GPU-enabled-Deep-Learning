@@ -1,7 +1,7 @@
 # Recreation Guide: Native D3D12 Compute Backend from Scratch
 
 Step-by-step instructions to recreate the entire D3D12 native compute backend on a fresh WSL2 Ubuntu installation with a Qualcomm Adreno GPU (Surface Pro ARM64).
-
+by Mukshud Ahamed
 ---
 
 ## Prerequisites
